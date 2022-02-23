@@ -1,5 +1,5 @@
 # Exemplo GO com SQLite
-> Neste exemplo preferi utilizar **sqlx** para facilitar o build do retorno da consulta com a estrutura de User, **não** sendo necessário utilizar **row.Scan**
+> Neste exemplo preferi utilizar **sqlx**, para facilitar o build do retorno da consulta com a estrutura de User, **não** sendo necessário utilizar **row.Scan** para atribuir os valores
 
 
 ####Utilização
